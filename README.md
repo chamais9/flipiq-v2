@@ -47,6 +47,8 @@ Open http://localhost:5173
 
 ### Default Login
 - Admin: admin@flipiq.com / admin123
+### Demo Share Code
+- Use code `DEMO1234` to import the pre-made Web Dev deck
 
 ## Features
 
